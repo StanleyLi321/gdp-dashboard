@@ -2,7 +2,7 @@
 
 A simple Streamlit app showing the GDP of different countries in the world.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://db-kpi-assessment-tool.streamlit.app/)
+# [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://db-kpi-assessment-tool.streamlit.app/)
 
 ### How to run it on your own machine
 
